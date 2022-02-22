@@ -52,21 +52,21 @@ You should also include any additional notes on any special headers that may be 
 You can use the [Mermaid Markdown Syntax](https://mermaid-js.github.io/mermaid/#/flowchart) to create a chart of how the parts of your frontend website relate to each other. Units should represent components of your page.
 
 ```mermaid
-App[The App Component]
-Header[The Header Component]
-Main[The Main Component]
-Footer[The Footer Component] 
-Router[Router]
-Home[The Home Page]
-Login[The Login Page]
-Dashboard[The Dashboard]
+Flowchart LR
+  App[The App Component]
+  Header[The Header Component]
+  Main[The Main Component]
+  Footer[The Footer Component] 
+  Router[Router]
+  Home[The Home Page]
+  Login[The Login Page]
+  Dashboard[The Dashboard]
 
-App --> Header
-App --> Main
-App --> Footer
-Main --> Router
-Router --> Home
-Router --> Login
-Router --> Dashboard
-
+  App --> Header
+  App --> Main
+  App --> Footer
+  Main --> Router
+  Router --> Home
+  Router --> Login
+  Router --> Dashboard
 ```
