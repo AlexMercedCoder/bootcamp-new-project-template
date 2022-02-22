@@ -53,14 +53,6 @@ You can use the [Mermaid Markdown Syntax](https://mermaid-js.github.io/mermaid/#
 
 ```mermaid
 Flowchart LR
-  App[The App Component]
-  Header[The Header Component]
-  Main[The Main Component]
-  Footer[The Footer Component] 
-  Router[Router]
-  Home[The Home Page]
-  Login[The Login Page]
-  Dashboard[The Dashboard]
   App --> Header
   App --> Main
   App --> Footer
