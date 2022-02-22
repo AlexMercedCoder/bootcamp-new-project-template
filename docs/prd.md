@@ -52,7 +52,7 @@ You should also include any additional notes on any special headers that may be 
 You can use the [Mermaid Markdown Syntax](https://mermaid-js.github.io/mermaid/#/flowchart) to create a chart of how the parts of your frontend website relate to each other. Units should represent components of your page.
 
 ```mermaid
-Flowchart LR
+flowchart LR
   App-->Header
   App-->Main
   App-->Footer
