@@ -61,7 +61,6 @@ Flowchart LR
   Home[The Home Page]
   Login[The Login Page]
   Dashboard[The Dashboard]
-
   App --> Header
   App --> Main
   App --> Footer
