@@ -53,11 +53,11 @@ You can use the [Mermaid Markdown Syntax](https://mermaid-js.github.io/mermaid/#
 
 ```mermaid
 Flowchart LR
-  App --> Header
-  App --> Main
-  App --> Footer
-  Main --> Router
-  Router --> Home
-  Router --> Login
-  Router --> Dashboard
+  App-->Header
+  App-->Main
+  App-->Footer
+  Main-->Router
+  Router-->Home
+  Router-->Login
+  Router-->Dashboard
 ```
