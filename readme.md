@@ -4,7 +4,7 @@ This is a template for helping build your project in a coding bootcamp. The main
 
 ## [Product Requirements Document(PRD)](./docs/prd.md)
 
-This document should be filled out before starting your project to help you think through what your building. 
+This document located in the docs folder should be filled out before starting your project to help you think through what your building. 
 
 ## Documenting Challenges and Solutions - Issues
 
